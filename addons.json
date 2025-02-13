@@ -1,0 +1,9 @@
+{
+  "penguin_licensing": {
+    "discontinued": false,
+    "direct_download": "https://google.com",
+    "version": {
+      "prod": "1.0.0"
+    }
+  }
+}
