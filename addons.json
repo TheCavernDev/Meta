@@ -5,5 +5,12 @@
     "version": {
       "prod": "1.0.0"
     }
+  },
+  "void_bot": {
+    "discontinued": false,
+    "direct_download": "https://google.com",
+    "version": {
+      "prod": "1.0.0"
+    }
   }
 }
